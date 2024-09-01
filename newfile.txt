@@ -1,4 +1,3 @@
 hello this is first class
 second line 
 third line 
-wrong line sho
